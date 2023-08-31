@@ -1,1 +1,3 @@
-# Tan-Wang-Zhou-a1
+# Assignment 1
+
+## Peter (Bozhou) Tan, Zhuoer Wang, Qichuan Zhou
